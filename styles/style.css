@@ -1,0 +1,31 @@
+html {
+  font-size:  10px;
+  font-family: Montserrat ;
+  background-color: #F78284;
+}
+h1 {
+  margin: 0;
+  padding: 60px 0;
+  text-shadow: 3px 3px 1px black;
+  color: #F78284;
+  text-align: center;
+  font-size: 50px;
+}
+p,li {
+  text-align: center;
+  font-size: 25px;
+  line-height: 2;
+  letter-spacing: 5px;
+}
+img {
+  display: block;
+  margin: 0 auto;
+  width: 200px;
+}
+body {
+width: 600px;
+margin: 60px auto;
+padding: 0 20px 20px 20px;
+border: 5px solid white;
+background-color:#B6D9FA;
+}
